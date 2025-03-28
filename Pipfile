@@ -10,6 +10,8 @@ matplotlib = "*"
 seaborn = "*"
 scikit-learn = "*"
 jupyter = "*"
+gradio = "*"
+joblib = "*"
 
 [dev-packages]
 
